@@ -1,0 +1,99 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(110, 29, 29);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+  
+  .moi{
+    font-size: 30px;
+    color: gainsboro;
+    text-align: left;
+  }
+  
+  .toi{
+    font-size: 30px;
+    color: gainsboro;
+    text-align: right;
+  }
+
+  .orien{
+    position: relative;
+    left: 600px;
+    top: 0px;
+    right: 500px;
+    height: 150px;
+    width: 250px;
+  }
+
+  .orient{
+    position: relative;
+    left: 450px;
+    top: 20px;
+    right: 20px;
+  }
+
+  .a{
+    position: relative;
+    left: 20px;
+    top: -150px;
+    color: white;
+  }
+
+  .b{
+    position: relative;
+    left: -30px;
+    top: -100px;
+    color: white;
+  }
+
+  .c{
+    position: relative;
+    left: 20px;
+    top: -70px;
+    color: white;
+  }
+
+  .d{
+   position: relative;
+   left: -30px;
+   top: -30px;
+   color: white;
+  }
+
+  .reponse{
+    position: relative;
+    left: 0px;
+    top: 0px;
+    right: 500px;
+    height: 250px;
+    width: 725px;
+  }
+
+  .question{
+    position: relative;
+    left: 300px;
+    top: 200px;
+    right: 20px;
+  }
