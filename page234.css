@@ -30,12 +30,16 @@ ul {
     font-size: 30px;
     color: gainsboro;
     text-align: left;
+    font-weight: normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   
   .toi{
     font-size: 30px;
     color: gainsboro;
     text-align: right;
+    font-weight: normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
   .orien{
@@ -71,22 +75,22 @@ ul {
   .c{
     position: relative;
     left: 20px;
-    top: -70px;
+    top: -100px;
     color: white;
   }
 
   .d{
    position: relative;
    left: -30px;
-   top: -30px;
+   top: -60px;
    color: white;
   }
 
   .reponse{
     position: relative;
-    left: 0px;
+    left: -300px;
     top: 0px;
-    right: 500px;
+    right: 300px;
     height: 250px;
     width: 725px;
   }
@@ -96,4 +100,33 @@ ul {
     left: 300px;
     top: 200px;
     right: 20px;
+  }
+
+  .x{
+    position: relative;
+    left: 20px;
+    top: -250px;
+    color: white;
+  }
+
+  .y{
+
+    position: relative;
+    left: 735px;
+    top: -250px;
+    color: white;
+  }
+
+  .patoi{
+    font-size: 30px;
+    color: gainsboro;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal; 
+  }
+  
+  .z{
+    position: relative;
+    left: 10px;
+    top:  -220px;
+    color: white;  
   }
