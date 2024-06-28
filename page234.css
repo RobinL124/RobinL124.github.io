@@ -145,14 +145,44 @@ ul {
 
   .ab{
     position: relative;
-    left: 700px;
-    top: 0px;
+    left: 710px;
+    top: -230px;
     color: white;
   }
 
   .bc{
     position: relative;
-    left: 700px;
-    top: 0px;
+    left: 710px;
+    top: -240px;
     color: white; 
+  }
+
+  .dev{
+    position: relative;
+    left: -270px;
+    top: 0px;
+    right: 300px;
+  }
+
+  .ops{
+    position: relative;
+    left: 1150px;
+    top: -120px;
+    right: 20px;
+    height: 250px;
+    width: 450px;
+  }
+
+  .chips{
+    position: relative;
+    left: 20px;
+    top: -250px;
+    color: white;
+  }
+
+  .ch{
+    position: relative;
+    left: 20px;
+    top: -250px;
+    color:white;
   }
